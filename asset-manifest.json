@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gpt/static/css/main.073c9b0a.css",
+    "main.js": "/react-gpt/static/js/main.35f5ee5f.js",
+    "static/js/787.996ae45a.chunk.js": "/react-gpt/static/js/787.996ae45a.chunk.js",
+    "static/media/logo.svg": "/react-gpt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gpt/index.html",
+    "main.073c9b0a.css.map": "/react-gpt/static/css/main.073c9b0a.css.map",
+    "main.35f5ee5f.js.map": "/react-gpt/static/js/main.35f5ee5f.js.map",
+    "787.996ae45a.chunk.js.map": "/react-gpt/static/js/787.996ae45a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.35f5ee5f.js"
+  ]
+}
